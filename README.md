@@ -3,4 +3,4 @@ Hi, my name is Prashant Harnaval and I'm 23 years old.I'm currently pursuing a c
 
 Technical Skills: Java, HTML/CSS, JavaScript.
 
-projects :- 1.Tic Tac Toe game in Java (5 jul)
+projects :- 1.Tic Tac Toe game in Java (4 jul)
